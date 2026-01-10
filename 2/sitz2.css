@@ -1,0 +1,19 @@
+body {
+      background-image: url("F2/Облака.jpg"); /* путь к изображению */
+      background-size: cover;     /* изображен заполняет весь экран */
+      background-repeat: no-repeat; /* не повторять фон */
+      background-position: center;  /* центрировать изображение */
+      margin: 0;                  /* убрать отступы по умолчанию */
+    }
+	h1 {
+      color: blue;
+	font-size : 32pt;  
+	text-align: center;}
+	.Универ1 {
+   margin-left:20px;
+   width: 650px;           /* Ширина контейнера */
+   height: 500px;          /* Высота контейнера */
+   overflow: hidden;        /* Скрывает «лишние» части изображения */
+   border: 5px solid #ddd; /* Рамка вокруг контейнера */
+	border-radius: 15px;     /* Скругление углов */}
+	
